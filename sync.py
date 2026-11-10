@@ -7,7 +7,7 @@ GAMES = {
     'ataka-zombi': r'E:\my\WalkersAttack\public',
     'orda': r'E:\my\Orda\public',
     # Башня Тихого Мастера: не public/ — оттуда страницы уехали бы в сборки игры.
-    'silent-tower': r'E:\my\NeuroFlask-0.11.2\docs\legal',
+    'silent-tower': r'E:\my\NeuroFlask\docs\legal',
     # Ярл: Оборона Севера — тоже docs/legal/, чтобы страницы не попали в сборку игры.
     'yarl-defense': r'E:\my\CrazyTD\docs\legal',
 }
